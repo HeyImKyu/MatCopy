@@ -1,0 +1,17 @@
+{
+    "name": "kyu.heyimkyu.matcopy.Editor",
+    "references": [
+        "kyu.heyimkyu.matcopy"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

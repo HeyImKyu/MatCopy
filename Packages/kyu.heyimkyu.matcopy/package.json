@@ -1,0 +1,16 @@
+{
+  "name": "kyu.heyimkyu.matcopy",
+  "displayName": "MatCopy",
+  "version": "0.0.1",
+  "description": "Tool to copy material assingments from one avatar to another if they are identical",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "HeyImKyu",
+    "email": "3ad4gum@gmail.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "N:\\AvatarProjects\\MatCopy\\Packages\\kyu.heyimkyu.matcopy",
+  "type": "tool"
+}
